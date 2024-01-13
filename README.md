@@ -1,6 +1,6 @@
 # Swing Form
 
-Foobar is a Python library for dealing with word pluralization.
+This is my first game!
 
 ## Game Design Doc
 
